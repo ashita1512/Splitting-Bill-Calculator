@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+    background-color: rgb(207, 189, 189);
+}
+button{
+    background: white;
+    background-color: rgb(207, 102, 32);
+    border-radius: 5px;
+    padding: 8px 40px;
+    /* border-radius: 2px; */
+}
